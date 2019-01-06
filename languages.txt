@@ -6,6 +6,8 @@ c++ language
 java
 python
 pascal
+html 
+css
 
 finalcopy
 
