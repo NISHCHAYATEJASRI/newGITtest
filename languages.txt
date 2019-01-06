@@ -6,5 +6,7 @@ c++ language
 java
 python
 pascal
+html 
+css
 
 thank you
